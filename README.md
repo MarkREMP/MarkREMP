@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming in Python, C++, C#, JS and also don't mind creating websites in HTML5(CSS). 
 - 🌱 I’m currently learning at Step Academy on a software course.
 - 💞️ I’m looking for collaboration with other students. And also perhaps with some professionals who don't mind taking me into their team.
-- 📫 How to reach me? Write to me on Instagram(@controheath) or on Telegram(@alogain)
+- 📫 How to reach me? Write to me on Instagram(@velkomark) or on Telegram(@alogain)
